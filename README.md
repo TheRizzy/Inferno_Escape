@@ -1,9 +1,11 @@
-# Inferno_Escape
+# Inferno_Escape v0.1
 Inferno Escape is a simple game of escaping from a skyscraper that has started to burn on top of the building. Your mission is to run down and survive.
-Version - v0.1 
+
+##### Screenshot from game
+<img src="https://github.com/TheRizzy/Inferno_Escape/blob/main/sample.png" alt="drawing" width="600"/>
 
 How to start the game:
-1. Download the repozitry
+1. Download the repository
 2. Install Python (https://wiki.python.org/moin/BeginnersGuide/Download) and Pygame (https://www.pygame.org/wiki/GettingStarted)
 3. Open your terminal, navigate to the folder with the downloaded repository
 4. Type `python3 main.py`
