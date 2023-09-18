@@ -10,9 +10,9 @@ How to start the game:
 3. Open your terminal, navigate to the folder with the downloaded repository
 4. Type `python3 main.py`
 
-Techlogigies: 
+Technologies: 
 * Pyhton 3.10.0 - https://www.python.org/
-* Pygame pygame 2.5.1 (SDL 2.28.2)- https://www.pygame.org/news
+* Pygame 2.5.1 (SDL 2.28.2)- https://www.pygame.org/news
 
 To-do list:
 * Working restart game button
